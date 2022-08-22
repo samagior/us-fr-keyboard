@@ -6,8 +6,16 @@
 
 ## Layout modifications
 
-- On VK_OEM_7 key :
-    1. dead key replace on APOSTROPHE from ACUTE ACCENT to GRAVE ACCENT; the only often required APOSTROPHE ACCENT are for e and c letters which already have the AltGR option directly on the associated key, ACUTE ACCENT reasigned for international letters (see below).
-    2. dead key removed on QUOTATION MARK; DIAERESIS rarely used in comparision to QUOTATION MARK, DIAERESIS reasinged (see below).
-    3. dead key ACUTE ACCENT added on 3rd key (AltGR option) for international letters or secondary alternative to AltGR keys (é and ç).
-    4. dead key DIAERESIS added on 4th key (AltGr + Shift option).
+1. VK_OEM_7 key :
+    - ACUTE ACCENT dead key replaced on APOSTROPHE key to GRAVE ACCENT; the only often required ACUTE ACCENT in french are for the letter e and c which already have the AltGR option, ACUTE ACCENT are reasigned (see below).
+    - DIAERESIS dead key removed on QUOTATION MARK for direct access to quotation; DIAERESIS being rarely used, DIAERESIS reasinged (see below).
+    - ACUTE ACCENT dead key added on 3rd group (AltGR option) for access to international letters.
+    - DIAERESIS dead key added on 4th group (AltGr + Shift option).
+2. VK_C key :
+    - Special caraters (© and ¢) replaced on AltGr options by APOSTROPHE c (ç and Ç).
+3. VK_OEM_COMMA key :
+    - APOSTROPHE c (ç and Ç) replaced on AltGr options by special caraters (© and ¢).
+4. VK_A key :
+    - ACUTE ACCENT a letters (á and Á) replaced on AltGr options by GRAVE ACCENT a letters (à and À).
+5. VK_U key :
+    - ACUTE ACCENT u letters (ú and Ú) replaced on AltGr options by GRAVE ACCENT u letters (ù and Ù).
