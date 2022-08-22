@@ -4,7 +4,7 @@
 
  This layout is for anyone who is french typing on a standard US keyboard. (use case 47.5% french, 47.5% english, 5% anything else)
 
-## Layout modifications
+## Modification list
 
 1. VK_OEM_7 key :
     - ACUTE ACCENT dead key replaced to GRAVE ACCENT; the only often required ACUTE ACCENT in french is the letter e and c which already have the AltGR option, ACUTE ACCENT are reasigned (see below).
