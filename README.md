@@ -1,4 +1,4 @@
-# us-fr-klc
+# us-fr-layout
 
  French version of the United States-International standard keyboard layout, created with the free Keyboard Layout Creator (KLC) application from Microsoft.
 
