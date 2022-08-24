@@ -1,21 +1,17 @@
 # us-fr-layout
 
- French version of the United States-International standard keyboard layout, created with the free Keyboard Layout Creator (KLC) application from Microsoft.
+ French version of the United States-International keyboard.
 
- This layout is for anyone who is french typing on a standard US keyboard. (use case 47.5% french, 47.5% english, 5% anything else)
+ This layout is exactly the same as the standard US-INTL keyboard with the ACUTE ACCENT and DIASERESIS dead key being pushed further to their right-full place; AltGr groups of the same VK_OEM_7 key; allowing direct access to the APOSTROPHE and QUOTATION MARK.
 
-## Modification list
+ French specific accent being far less extensive; needed ACUTE letters are already accessible through AltGr keys and DIASERESIS being less commonly used; we can normally deal with it being further on the key.
+
+ Be aware; DIASERESIS letter may require some good hand gymnastic to reach depending on your keyboard layout (7u space bar keyboard for instance).
+
+## Modifications
 
 1. VK_OEM_7 key :
-    - ACUTE ACCENT dead key replaced to GRAVE ACCENT; the only often required ACUTE ACCENT in french is the letter e and c which already have the AltGR option, ACUTE ACCENT are reasigned (see below).
-    - DIAERESIS dead key removed on QUOTATION MARK for direct access to quotation mark; DIAERESIS is rarely being used, DIAERESIS are reasinged (see below).
-    - ACUTE ACCENT dead key added on 3rd group (AltGR option) for access to international letters.
-    - DIAERESIS dead key added on 4th group (AltGr + Shift option).
-2. VK_C key :
-    - Special caraters (© and ¢) replaced on AltGr options by CEDILLA c (ç and Ç), special caraters are reasigned (see number 3).
-3. VK_OEM_COMMA key :
-    - CEDILLA c (ç and Ç) replaced on AltGr options by special caraters (© and ¢, cedilla are reasigned (see number 2).
-4. VK_A key :
-    - ACUTE ACCENT a letters (á and Á) replaced on AltGr options by GRAVE ACCENT a letters (à and À).
-5. VK_U key :
-    - ACUTE ACCENT u letters (ú and Ú) replaced on AltGr options by GRAVE ACCENT u letters (ù and Ù).
+    - gr1 = APOSTROPHE dead key to make ACUTE ACCENT letters changed for a regular APOSTROPHE.
+    - gr2 = QUOTATION MARK dead key to make DIAERESIS letters changed for a regular QUOTATION MARK.
+    - gr3 = Regular ACUTE ACCENT changed for an ACUTE ACCENT dead key to make ACUTE letters.
+    - gr4 = Regular DIAERESIS changed for a DIASERESIS dead key to make DIASERESIS letters.
