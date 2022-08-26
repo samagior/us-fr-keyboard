@@ -2,7 +2,7 @@
 
  French version of the United States-International keyboard.
 
- This layout is exactly the same as the standard US-INTL keyboard with the ACUTE ACCENT and DIASERESIS dead key being pushed further to their right-full place; AltGr groups of the same VK_OEM_7 key; allowing direct access to the APOSTROPHE and QUOTATION MARK.
+ This layout is exactly the same as the standard US-INTL keyboard with the ACUTE ACCENT and DIASERESIS dead key being pushed further to their right-full place on the AltGr groups of the same VK_OEM_7 key; allowing direct access to the APOSTROPHE and QUOTATION MARK.
 
  French specific accent being far less extensive; needed ACUTE letters are already accessible through AltGr keys and DIASERESIS being less commonly used; we can normally deal with it being further on the key.
 
