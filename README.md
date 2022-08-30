@@ -1,4 +1,4 @@
-# us-fr-layout
+# us-fr-keyboard
 
  French version of the United States-International keyboard.
 
