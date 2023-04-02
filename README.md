@@ -1,10 +1,10 @@
 # us-fr-keyboard
 
-Simple "United State Internationnal" (US-INTL) keyboard layout with the dead key removed from the APOSTROPHE and QUOTATION MARK allowing direct access; same as the standard English "United State" keyboard layout.
+The US-FR layout is a revised version of the US-INTL layout (United States - Internationnal) with the dead keys removed from the APOSTROPHE and QUOTATION MARK.
  
-This keyboard layout was made using the *[Microsoft Keyboard Layout Creator (MSKLC)](https://www.microsoft.com/en-us/download/details.aspx?id=102134)* from the standard US-INTL keyboard layout as a template. 
+It was made using the [Microsoft Keyboard Layout Creator (MSKLC)](https://www.microsoft.com/en-us/download/details.aspx?id=102134).
 
-It is made for people who use a ponctuated language and APOSTROPHE/QUOTATION MARK on a regular basis for who runing multiple layout isn't a viable option.
+The US-FR layout is appropriate for people who use th french language or any other ponctuated language that do not relies on APOSTROPHE and QUOTATION MARK for it's main or regular ponctuation. It is not the best for english, and not the best for french, but if your workflow make it unviable to run multiple layout and you like the standard US layout; then this layout may be the right fit for you.
 
 It is listed as FR (french) because it wasn't tested with any other language yet. Any other language that doesn't relies on those two key for regular ponctuation should work just fine.
 
