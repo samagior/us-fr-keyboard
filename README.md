@@ -1,17 +1,11 @@
 # us-fr-keyboard
 
- French version of the United States-International keyboard.
+Simple "United State Internationnal" (US-INTL) keyboard layout whit the dead key removed from the APOSTROPHE and QUOTATION MARK allowing direct access to them; same as the standard English "United State" keyboard layout.
+ 
+This keyboard layout was made using the *[Microsoft Keyboard Layout Creator (MSKLC)](https://www.microsoft.com/en-us/download/details.aspx?id=102134)* from the standard US-INTL keyboard layout as a template. This revised layout is meant for people who use a ponctuated language on a regular basis and also want an easy access to the APOSTROPHE and QUOTATION MARK; same way as the standard US layout. 
 
- This layout is exactly the same as the standard US-INTL keyboard with the ACUTE ACCENT and DIASERESIS dead key being pushed further to their right-full place on the AltGr groups of the same VK_OEM_7 key; allowing direct access to the APOSTROPHE and QUOTATION MARK.
+It is listed as FR (french) because it wasn't tested with another language yet. Any other language that doesn't relies on those two key for regular ponctuation should work just as fine.
 
- French specific accent being far less extensive; needed ACUTE letters are already accessible through AltGr keys and DIASERESIS being less commonly used; we can normally deal with it being further on the key.
-
- Be aware; DIASERESIS letter may require some good hand gymnastic to reach depending on your keyboard layout (7u space bar keyboard for instance).
-
-## Modifications
-
-1. VK_OEM_7 key :
-    - gr1 = APOSTROPHE dead key to make ACUTE ACCENT letters changed for a regular APOSTROPHE.
-    - gr2 = QUOTATION MARK dead key to make DIAERESIS letters changed for a regular QUOTATION MARK.
-    - gr3 = Regular ACUTE ACCENT changed for an ACUTE ACCENT dead key to make ACUTE letters.
-    - gr4 = Regular DIAERESIS changed for a DIASERESIS dead key to make DIASERESIS letters.
+For exemple, in french using this layout ; 
+1. é/ç ; are regularly used ponctuation **Easely Accessible from the AltGr Key**.
+2. ë/ï/ü ; are hardly accessible but **Uncommon Ponctuation** *(not recommanded if you need those ponctuation on a regular basis)*
