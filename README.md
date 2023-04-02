@@ -1,6 +1,6 @@
 # us-fr-keyboard
 
-Simple "United State Internationnal" (US-INTL) keyboard layout whit the dead key removed from the APOSTROPHE and QUOTATION MARK allowing direct access; same as the standard English "United State" keyboard layout.
+Simple "United State Internationnal" (US-INTL) keyboard layout with the dead key removed from the APOSTROPHE and QUOTATION MARK allowing direct access; same as the standard English "United State" keyboard layout.
  
 This keyboard layout was made using the *[Microsoft Keyboard Layout Creator (MSKLC)](https://www.microsoft.com/en-us/download/details.aspx?id=102134)* from the standard US-INTL keyboard layout as a template. 
 
