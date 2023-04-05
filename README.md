@@ -1,17 +1,19 @@
 # us-fr-keyboard
 
- French version of the United States-International keyboard.
+The US-FR layout is a revised version of the US-INTL layout (United States - Internationnal) with the dead keys removed from the APOSTROPHE and QUOTATION MARK.
+ 
+It was made using the [Microsoft Keyboard Layout Creator (MSKLC)](https://www.microsoft.com/en-us/download/details.aspx?id=102134).
 
- This layout is exactly the same as the standard US-INTL keyboard with the ACUTE ACCENT and DIASERESIS dead key being pushed further to their right-full place on the AltGr groups of the same VK_OEM_7 key; allowing direct access to the APOSTROPHE and QUOTATION MARK.
+## Explanation
 
- French specific accent being far less extensive; needed ACUTE letters are already accessible through AltGr keys and DIASERESIS being less commonly used; we can normally deal with it being further on the key.
+This layout is for people using a 50/50 blend of french and english for who runing multiple layout isn't a viable option. Any other ponctuated language that do not relies on APOSTROPHE and QUOTATION MARK for regular ponctuation may work just as fine (only tested with french).
 
- Be aware; DIASERESIS letter may require some good hand gymnastic to reach depending on your keyboard layout (7u space bar keyboard for instance).
+For exemple, in french using this layout ; 
 
-## Modifications
+- é/ç ; are ponctuation made using the APOSTROPHE key. Since they are made **easely accessible** already from the AltGr modifier; we can easely accomodate for the missing dead key.
+- ë/ï/ü ; are ponctuation made using the QUOTATION MARK key. Since they are **uncommon ponctuation in french**, we can normaly live with the missing dead key.
+- Both dead key are moved further on the key; level 3 (AltGr) and 4 (AltGr+Shift) if ever they are needed.
 
-1. VK_OEM_7 key :
-    - gr1 = APOSTROPHE dead key to make ACUTE ACCENT letters changed for a regular APOSTROPHE.
-    - gr2 = QUOTATION MARK dead key to make DIAERESIS letters changed for a regular QUOTATION MARK.
-    - gr3 = Regular ACUTE ACCENT changed for an ACUTE ACCENT dead key to make ACUTE letters.
-    - gr4 = Regular DIAERESIS changed for a DIASERESIS dead key to make DIASERESIS letters.
+## Layout picture
+
+
