@@ -16,4 +16,6 @@ For exemple, in french using this layout ;
 
 ## Layout picture
 
+![Lvl-1](https://github.com/samagior/us-fr-keyboard/blob/main/preview/lvl-1.png)
+
 
