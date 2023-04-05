@@ -27,6 +27,8 @@ For exemple, in french using this layout ;
 
 ## Layout preview
 
+![legend](https://github.com/samagior/us-fr-keyboard/blob/main/preview/legend.png)
+
 ### Level 1
 
 ![Lvl-1](https://github.com/samagior/us-fr-keyboard/blob/main/preview/lvl-1.png)
