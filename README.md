@@ -14,7 +14,16 @@ For exemple, in french using this layout ;
 - ë/ï/ü ; are ponctuation made using the QUOTATION MARK key. Since they are **uncommon ponctuation in french**, we can normaly live with the missing dead key.
 - Both dead key are moved further on the key; level 3 (AltGr) and 4 (AltGr+Shift) if ever they are needed.
 
-## Layout picture
+## Quick Start
+
+1. Download the [Zip file](https://github.com/samagior/us-fr-keyboard/archive/refs/heads/main.zip).
+2. Unzip the file (if required; [7-Zip](https://www.7-zip.org/) recommanded).
+3. In the "us-fr" folder, run the "setup.exe" installation file.
+4. In you Window Setting > Time & Language > Language & region, open the Option menu for your prefered language.
+5. Clic the "Add a Keyboard" button Find the newly created "United States-International - French" keyboard.
+6. Set the newly asigned keyboard as your active keyboard; see [Microsoft instruction](https://support.microsoft.com/en-us/office/switch-between-languages-using-the-language-bar-1c2242c0-fe15-4bc3-99bc-535de6f4f258)
+
+## Layout preview
 
 ### Level 1
 
