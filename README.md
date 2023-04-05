@@ -14,7 +14,7 @@ For exemple, in french using this layout ;
 
 - é/ç ; are ponctuation made using the APOSTROPHE key. Since they are made **easely accessible** already from the AltGr modifier; we can easely accomodate for the missing dead key.
 - ë/ï/ü ; are ponctuation made using the QUOTATION MARK key. Since they are **uncommon ponctuation in french**, we can normaly live with the missing dead key.
-- Both dead key are moved further on the key; level 3 (AltGr) and 4 (AltGr+Shift) if ever they are needed.
+- Both dead key are moved further on the key; level 3 (AltGr) and 4 (AltGr+Shift) if they are ever needed.
 
 ## Quick Start
 
