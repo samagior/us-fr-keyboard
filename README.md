@@ -16,6 +16,20 @@ For exemple, in french using this layout ;
 
 ## Layout picture
 
+### Level 1
+
 ![Lvl-1](https://github.com/samagior/us-fr-keyboard/blob/main/preview/lvl-1.png)
+
+### Level 2 (Shift)
+
+![Lvl-2](https://github.com/samagior/us-fr-keyboard/blob/main/preview/lvl-2.png)
+
+### Level 3 (AltGr)
+
+![Lvl-3](https://github.com/samagior/us-fr-keyboard/blob/main/preview/lvl-3.png)
+
+### Level 4 (AltGr + Shift)
+
+![Lvl-4](https://github.com/samagior/us-fr-keyboard/blob/main/preview/lvl-4.png)
 
 
