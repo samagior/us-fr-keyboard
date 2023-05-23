@@ -6,12 +6,14 @@ It was made using the [Microsoft Keyboard Layout Creator (MSKLC)](https://www.mi
 
 ## Explanation
 
-This layout is for people using the US-INTL as a main french keyboard and require often use of the APOSTROPHE or QUOTATION MARK. Any other ponctuated language that do not relies on APOSTROPHE and QUOTATION MARK for regular ponctuation may work just as fine (untested).
+This layout is for people using the US-INTL as a main french keyboard and require often use of the APOSTROPHE or QUOTATION MARK and do not want to constantly switch between English and French layout. Any other ponctuated language that do not relies on APOSTROPHE and QUOTATION MARK for regular ponctuation may work just as fine (untested).
+
+This layout isn't meant for fast french typing, more like a convinient "DO IT ALL" layout.
 
 For exemple, in french using this layout ; 
 
 - é/ç ; are ponctuation made using the APOSTROPHE key. Since they are made **easely accessible** already from the AltGr modifier; we can easely accomodate for the missing dead key.
-- ë/ï/ü ; are ponctuation made using the QUOTATION MARK key. Since they are **uncommon ponctuation in french**, we can normaly live with the missing dead key.
+- ë/ï/ü ; are ponctuation made using the QUOTATION MARK key. Since they are **uncommon ponctuation in french**; we can normaly live with them being harder to reach.
 - Both dead key are moved further on the key; level 3 (AltGr) and 4 (AltGr+Shift) if they are ever needed.
 
 ## Quick Start
