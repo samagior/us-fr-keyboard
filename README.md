@@ -6,7 +6,7 @@ It was made using the [Microsoft Keyboard Layout Creator (MSKLC)](https://www.mi
 
 ## Explanation
 
-This layout is for people using the US-INTL as a main french keyboard and require often use of the APOSTROPHE or QUOTATION MARK characters; preventing he double press normaly require for those character. Any other ponctuated language that do not relies on APOSTROPHE and QUOTATION MARK for regular ponctuation may work just as fine.
+This layout is for people using the US-INTL as a main french keyboard and require often use of the APOSTROPHE or QUOTATION MARK; preventing the double press normaly require for those characters. Any other ponctuated language that do not relies on APOSTROPHE and QUOTATION MARK for regular ponctuation may work just as fine.
 
 For exemple, in french using this layout ; 
 
