@@ -6,9 +6,9 @@ It was made using the [Microsoft Keyboard Layout Creator (MSKLC)](https://www.mi
 
 ## Explanation
 
-This layout is for people using the US-INTL as a main french keyboard and require often use of the APOSTROPHE or QUOTATION MARK and do not want to constantly switch between English and French layout. Any other ponctuated language that do not relies on APOSTROPHE and QUOTATION MARK for regular ponctuation may work just as fine (untested).
+This layout is for people using the US-INTL as a main french keyboard and require often use of the APOSTROPHE or QUOTATION MARK characters; preventing he double press normaly require for those character. Any other ponctuated language that do not relies on APOSTROPHE and QUOTATION MARK for regular ponctuation may work just as fine.
 
-This layout isn't meant for fast french typing, more like a convinient "DO IT ALL" layout.
+This layout is a "DO IT ALL" kind, not a fast typing one.
 
 For exemple, in french using this layout ; 
 
