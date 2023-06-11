@@ -8,8 +8,6 @@ It was made using the [Microsoft Keyboard Layout Creator (MSKLC)](https://www.mi
 
 This layout is for people using the US-INTL as a main french keyboard and require often use of the APOSTROPHE or QUOTATION MARK characters; preventing he double press normaly require for those character. Any other ponctuated language that do not relies on APOSTROPHE and QUOTATION MARK for regular ponctuation may work just as fine.
 
-This layout is a "DO IT ALL" kind, not a fast typing one.
-
 For exemple, in french using this layout ; 
 
 - é/ç ; are ponctuation made using the APOSTROPHE key. Since they are made **easely accessible** already from the AltGr modifier; we can easely accomodate for the missing dead key.
